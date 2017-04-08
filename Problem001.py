@@ -10,6 +10,5 @@ def multlist(limit):
   return len(li)
 
 print(mult(500))
-print(listver(500))
-
+print(multlist(500))
 
